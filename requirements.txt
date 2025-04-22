@@ -1,0 +1,10 @@
+fastapi==0.103.1
+uvicorn==0.23.2
+python-dotenv==1.0.0
+numpy==1.25.2
+opencv-python==4.8.0.76
+pydantic==2.3.0
+ultralytics==8.0.196
+websockets==11.0.3
+mediapipe
+spotipy
